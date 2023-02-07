@@ -19,4 +19,3 @@ for (let contador = 0; contador < teclado.length; contador++) {
         tecla.classList.remove('ativa')
     }
     
-}
